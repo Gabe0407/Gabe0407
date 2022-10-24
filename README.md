@@ -1,4 +1,4 @@
-# Hello ! Welcometo my Github porfile 👋
+# Hello ! Welcome to my Github porfile 👋
 ### Meu nome é Gabriel.
 
 - 🔭 Estou aprendendo Pensamento Computacional!
